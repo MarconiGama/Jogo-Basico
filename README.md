@@ -1,2 +1,2 @@
-# Jogo Basico
- Estrutura básica de um quiz
+# Jogo Básico.
+ Estrutura básica de um quiz, contento animação e contagem do tempo.
